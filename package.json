@@ -1,6 +1,6 @@
 {
-    "name": "angular-clean-architecture",
-    "license": "ISC",
+    "name": "typescript-clean-architecture",
+    "license": "MIT",
     "scripts": {
         "prestart": "npm install && lerna bootstrap",
         "start": "lerna run start",
